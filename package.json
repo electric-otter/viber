@@ -1,0 +1,16 @@
+{
+  "name": "viber",
+  "version": "1.0.0",
+  "description": "Make sites without icann!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "kill-port": "^2.0.1",
+    "protocol-handler": "^1.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
